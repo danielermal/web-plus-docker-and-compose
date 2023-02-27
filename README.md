@@ -1,3 +1,5 @@
 # Докеризация приложения
 
-Перед тем как приступить к выполнению проектной работы разместите в репозитории исходный код фронтенд и бэкенд частей сервиса КупиПодариДай, реализованного вами ранее. 
+### ip-адрес - 158.160.45.149
+### Frontend https://kpd.ermalyukd.nomoredomains.work/gifts/line
+### Backend https://api.kpd.ermalyukd.nomoredomains.work/gifts/line
